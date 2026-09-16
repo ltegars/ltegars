@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Lalu Tegar Swarnaguna</h1>
+<h3 align="center">Frontend Developer · UI/UX Designer · AI-Driven Developer</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on [Web Menu Catalog & POS System](Currently in development)<br>🌱 I’m currently learning **React · Tailwind CSS · JavaScript**<br>💬 Ask me about **HTML · CSS · Figma · UI/UX**<br>⚡ Fun fact **I code, I design, and I’m Immortal in Mobile Legends. 🎮**
 
